@@ -1,0 +1,26 @@
+﻿using System;
+
+namespace Design_Principles.OODExamples.InheritanceDemo
+{
+    internal class Inheritance
+    {
+        public void RunExample()
+        {
+            Car myCar = new Car();
+            myCar.Start();
+            myCar.PlayMusic();
+            myCar.Stop();
+        }
+    }
+
+    internal class Vehicle
+    {
+        public void Start() => Console.WriteLine("Vehicle is starting...");
+        public void Stop() => Console.WriteLine("Vehicle is stopping...");
+    }
+
+    internal class Car : Vehicle
+    {
+        public void PlayMusic() => Console.WriteLine("Playing music in the car.");
+    }
+}
