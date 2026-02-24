@@ -15,8 +15,8 @@ namespace Design_Principles.OODExamples.InheritanceDemo
 
     internal class Vehicle
     {
-        public void Start() => Console.WriteLine("Vehicle is starting... Vehicle is trying to move");
-        public void Stop() => Console.WriteLine("Vehicle is stopping...  Vehicle is trying to move");
+        public void Start() => Console.WriteLine("Vehicle is starting... Vehicle is trying to move   modified the filenkjefbi");
+        public void Stop() => Console.WriteLine("Vehicle is stopping...  Vehicle is trying to move hvhxycx jgvutuvhv");
     }
 
     internal class Car : Vehicle
