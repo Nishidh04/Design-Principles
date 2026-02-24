@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C948C5CE-3F8A-35C0-AB1E-ED3305CBB3F2}|Design-Principles\\Design-Principles.csproj|c:\\users\\nkanojiya\\source\\repos\\design-principles\\design-principles\\oodexamples\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C948C5CE-3F8A-35C0-AB1E-ED3305CBB3F2}|Design-Principles\\Design-Principles.csproj|solutionrelative:design-principles\\oodexamples\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C948C5CE-3F8A-35C0-AB1E-ED3305CBB3F2}|Design-Principles\\Design-Principles.csproj|c:\\users\\nkanojiya\\source\\repos\\design-principles\\design-principles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C948C5CE-3F8A-35C0-AB1E-ED3305CBB3F2}|Design-Principles\\Design-Principles.csproj|solutionrelative:design-principles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{C948C5CE-3F8A-35C0-AB1E-ED3305CBB3F2}|Design-Principles\\Design-Principles.csproj|solutionrelative:design-principles\\oodexamples\\encapsulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C948C5CE-3F8A-35C0-AB1E-ED3305CBB3F2}|Design-Principles\\Design-Principles.csproj|c:\\users\\nkanojiya\\source\\repos\\design-principles\\design-principles\\oodexamples\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C948C5CE-3F8A-35C0-AB1E-ED3305CBB3F2}|Design-Principles\\Design-Principles.csproj|solutionrelative:design-principles\\oodexamples\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C948C5CE-3F8A-35C0-AB1E-ED3305CBB3F2}|Design-Principles\\Design-Principles.csproj|c:\\users\\nkanojiya\\source\\repos\\design-principles\\design-principles\\oodexamples\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C948C5CE-3F8A-35C0-AB1E-ED3305CBB3F2}|Design-Principles\\Design-Principles.csproj|solutionrelative:design-principles\\oodexamples\\polymorphism.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -77,20 +77,12 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DipRefactored.cs",
-              "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\SOLID\\DependencyInversion\\DipRefactored.cs",
-              "RelativeDocumentMoniker": "Design-Principles\\SOLID\\DependencyInversion\\DipRefactored.cs",
-              "ToolTip": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\SOLID\\DependencyInversion\\DipRefactored.cs",
-              "RelativeToolTip": "Design-Principles\\SOLID\\DependencyInversion\\DipRefactored.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T12:23:25.391Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DipViolated.cs",
               "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\SOLID\\DependencyInversion\\DipViolated.cs",
               "RelativeDocumentMoniker": "Design-Principles\\SOLID\\DependencyInversion\\DipViolated.cs",
@@ -102,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ISPCompliant.cs",
               "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\SOLID\\InterfaceSegregation\\ISPCompliant.cs",
               "RelativeDocumentMoniker": "Design-Principles\\SOLID\\InterfaceSegregation\\ISPCompliant.cs",
@@ -114,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ISPViolated.cs",
               "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\SOLID\\InterfaceSegregation\\ISPViolated.cs",
               "RelativeDocumentMoniker": "Design-Principles\\SOLID\\InterfaceSegregation\\ISPViolated.cs",
@@ -126,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LiskovCompliant.cs",
               "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\SOLID\\LiskovSubstitution\\LiskovCompliant.cs",
               "RelativeDocumentMoniker": "Design-Principles\\SOLID\\LiskovSubstitution\\LiskovCompliant.cs",
@@ -138,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LiskovViolated.cs",
               "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\SOLID\\LiskovSubstitution\\LiskovViolated.cs",
               "RelativeDocumentMoniker": "Design-Principles\\SOLID\\LiskovSubstitution\\LiskovViolated.cs",
@@ -151,6 +143,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Inheritance.cs",
+              "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\OODExamples\\Inheritance.cs",
+              "RelativeDocumentMoniker": "Design-Principles\\OODExamples\\Inheritance.cs",
+              "ToolTip": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\OODExamples\\Inheritance.cs",
+              "RelativeToolTip": "Design-Principles\\OODExamples\\Inheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T05:43:23.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DipRefactored.cs",
+              "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\SOLID\\DependencyInversion\\DipRefactored.cs",
+              "RelativeDocumentMoniker": "Design-Principles\\SOLID\\DependencyInversion\\DipRefactored.cs",
+              "ToolTip": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\SOLID\\DependencyInversion\\DipRefactored.cs",
+              "RelativeToolTip": "Design-Principles\\SOLID\\DependencyInversion\\DipRefactored.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T12:23:25.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\Program.cs",
               "RelativeDocumentMoniker": "Design-Principles\\Program.cs",
@@ -163,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "OcpRefactored.cs",
               "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\SOLID\\OpenClosed\\OcpRefactored.cs",
               "RelativeDocumentMoniker": "Design-Principles\\SOLID\\OpenClosed\\OcpRefactored.cs",
@@ -175,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "OcpViolated.cs",
               "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\SOLID\\OpenClosed\\OcpViolated.cs",
               "RelativeDocumentMoniker": "Design-Principles\\SOLID\\OpenClosed\\OcpViolated.cs",
@@ -187,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SrpCompliantRefactored.cs",
               "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\SOLID\\SingleResponsibility\\SrpCompliantRefactored.cs",
               "RelativeDocumentMoniker": "Design-Principles\\SOLID\\SingleResponsibility\\SrpCompliantRefactored.cs",
@@ -199,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SrpViolated.cs",
               "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\SOLID\\SingleResponsibility\\SrpViolated.cs",
               "RelativeDocumentMoniker": "Design-Principles\\SOLID\\SingleResponsibility\\SrpViolated.cs",
@@ -211,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "KissPrinciple.cs",
               "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\KissAndDry\\KissPrinciple.cs",
               "RelativeDocumentMoniker": "Design-Principles\\KissAndDry\\KissPrinciple.cs",
@@ -223,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "DryPrinciple.cs",
               "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\KissAndDry\\DryPrinciple.cs",
               "RelativeDocumentMoniker": "Design-Principles\\KissAndDry\\DryPrinciple.cs",
@@ -248,18 +265,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Inheritance.cs",
-              "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\OODExamples\\Inheritance.cs",
-              "RelativeDocumentMoniker": "Design-Principles\\OODExamples\\Inheritance.cs",
-              "ToolTip": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\OODExamples\\Inheritance.cs",
-              "RelativeToolTip": "Design-Principles\\OODExamples\\Inheritance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T05:43:23.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "Encapsulation.cs",
               "DocumentMoniker": "C:\\Users\\nkanojiya\\source\\repos\\Design-Principles\\Design-Principles\\OODExamples\\Encapsulation.cs",
               "RelativeDocumentMoniker": "Design-Principles\\OODExamples\\Encapsulation.cs",
